@@ -1,5 +1,6 @@
 require 'pry'
 binding.pry
+
 def hello(array)
   i = 0
   collection = []
