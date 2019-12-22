@@ -11,4 +11,4 @@ def hello(array)
   collection
   end
 
-(["Tom", "Jim"]) { |name| puts "Hi, #{name}" }
+
